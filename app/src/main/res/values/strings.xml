@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Water Swimming</string>
+    <string name="winner">Winner</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="athletes">Athletes</string>
+    <string name="events">Events</string>
+    <string name="events_details">Event details</string>
+    <string name="location">Location</string>
+    <string name="details">Details</string>
+    <string name="championships">Championships</string>
+</resources>
