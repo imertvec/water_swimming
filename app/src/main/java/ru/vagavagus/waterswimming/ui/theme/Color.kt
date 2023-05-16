@@ -13,6 +13,7 @@ val Pink40 = Color(0xFF7D5260)
 
 //custom
 val LightBlue = Color(0xFF41C4FF)
+val Blue = Color(0xFF2196F3)
 val White50 = Color(0x80FFFFFF)
 val Gold = Color(0xFFFFD700)
 val Silver = Color(0xFFC0C0C0)
